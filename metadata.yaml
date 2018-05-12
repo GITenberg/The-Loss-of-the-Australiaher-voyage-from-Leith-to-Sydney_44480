@@ -1,0 +1,33 @@
+_repo: The-Loss-of-the-Australiaher-voyage-from-Leith-to-Sydney_44480
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44480-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Yule, Adam
+    gutenberg_agent_id: '42781'
+    url: http://www.gutenberg.org/2009/agents/42781
+  editor:
+    agent_name: M'Gavin, James R.
+    gutenberg_agent_id: '42782'
+    url: http://www.gutenberg.org/2009/agents/42782
+description: ''
+gutenberg_issued: '2013-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44480'
+  lccn: '80450137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Shipwreck survival -- South Atlantic Ocean'
+- !lcsh 'Shipwrecks -- South Atlantic Ocean'
+- !lcsh 'Castaways -- Atlantic Ocean'
+- !lcsh 'Australia (Brig)'
+title: "The Loss of the Australia\r\nA narrative of the loss of the brig Australia\
+  \ by fire on her voyage from Leith to Sydney"
+url: http://www.gutenberg.org/ebooks/44480
